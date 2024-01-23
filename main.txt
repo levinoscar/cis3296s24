@@ -1,1 +1,1 @@
-New file in a text editor
+New file in a text editor. Made changes in the Terminal for HW 2.
